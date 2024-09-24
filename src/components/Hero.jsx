@@ -39,7 +39,7 @@ const Hero = () => {
           </h1>
           <p className="body-1 max-w-3xl mx-auto mb-6 text-n-2 lg:mb-8">
             Unleash the power of AI within Solar AI. Sustainable Energy 
-            Utilizing Advanced Solar Technology
+            Utilizing Advanced Solar 
           </p>
           <Button href="/pricing" white className="mr-12 flex items-center">
             Gitbook <GoZap className="mr-8" />
